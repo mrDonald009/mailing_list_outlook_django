@@ -130,6 +130,6 @@ EMAIL_HOST = 'smtp.mail.ru'
 EMAIL_HOST_USER = 'saveliy_petrov_2011@mail.ru'
 EMAIL_HOST_PASSWORD = '00WQs6D5xrXbMqSNRdyy'
 EMAIL_PORT = 587
-APPLICATION_EMAIL = '<saveliy_petrov_2011@mail.ru>'
+APPLICATION_EMAIL = '<aveliy_petrov_2011@mail.ru>'
 DEFAULT_FROM_EMAIL = '<saveliy_petrov_2011@mail.ru>'
 
