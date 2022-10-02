@@ -1,0 +1,19 @@
+{
+    "subject_system_error": [
+      {
+        "crm" : "Cбой системы - CRM.",
+        "lk_ik" : "Cбой системы - lk ik.",
+        "directum" : "Cбой системы - Directum.",
+        "naumen" : "Cбой системы - Naumen.",
+        "aedo" : "Cбой системы - A-EDO.",
+        "1c" : "Cбой системы - 1C.",
+        "quik" : "Cбой системы - Quik.",
+        "capqort" : "Cбой системы - Capqort.",
+        "atom" : "Cбой системы - Atom.",
+        "spectre" : "Cбой системы - Spectre.",
+        "backqort" : "Cбой системы - BackQort.",
+        "dwh" : "Cбой системы - DWH.",
+        "image": "animation.png"
+      }
+    ]
+}

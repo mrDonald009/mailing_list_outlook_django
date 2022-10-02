@@ -17,7 +17,14 @@ from django.urls import path
 from django.contrib import admin
 from emailapp.views import send_email_api
 
+from django.contrib import admin
+from django.urls import path, include
+from django.conf import settings
+from django.conf.urls.static import static
+
+
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('sendemail/', send_email_api),
+    path('sendemail/', send_email_api)
+
 ]

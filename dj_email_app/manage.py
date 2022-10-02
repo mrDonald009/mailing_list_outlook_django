@@ -3,7 +3,6 @@
 import os
 import sys
 
-
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'dj_email_app.settings')
     try:
@@ -19,3 +18,10 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+"""def main(): # 1 создание функции для ввода системы
+    system = input('System that is not available: ') # определение переменной с параметров, где параметр название системы
+    print(send_email_from_app(system=system)) # вызов функиции
+
+if __name__ == "__main__":
+    main()"""
