@@ -19,7 +19,7 @@ def send_email_api(request):
 
 def send_email_from_app():
 
-    html_tpl_path = 'email_templates/welcome.html'
+    html_tpl_path = 'email_templates/index.html'
     context_data = {'name_system' : 'crm'}
     email_html_template = get_template(html_tpl_path).render(context_data)
     receiver_email = 'e.petrov@alfacapital.ru'
