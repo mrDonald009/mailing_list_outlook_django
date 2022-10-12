@@ -1,6 +1,4 @@
-from django.shortcuts import render
 from django.http import JsonResponse
-
 from django.template.loader import get_template
 from django.core.mail import EmailMessage
 from django.conf import settings
