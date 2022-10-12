@@ -25,6 +25,5 @@ from django.conf.urls.static import static
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('sendemail/', send_email_api)
-
+    path('', send_email_api)
 ]
